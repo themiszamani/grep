@@ -2,7 +2,7 @@ language: python
 python:
 - '2.7'
 install:
-- pip install kamaki==0.13rc3
+- pip install kamaki==0.13.1
 - pip install paramiko
 - pip install mock
 - pip install rednose
