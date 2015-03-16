@@ -1,3 +1,3 @@
 # grep
-Grnet REPositories over ~okeanos
+Grnet REPositories over ~okeanos. 
 
